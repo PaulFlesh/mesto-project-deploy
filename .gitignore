@@ -10,3 +10,4 @@ dist
 build
 .sh
 .env
+.env.deploy
