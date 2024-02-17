@@ -1,6 +1,6 @@
 ## Деплой приложения Mesto
 
-IP: 178.154.203.11
+IP: 62.84.127.163
 
 Frontend: https://mesto.students.nomoredomainsmonster.ru
 
